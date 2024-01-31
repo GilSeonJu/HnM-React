@@ -3,7 +3,7 @@
         {
             "id":0,
             "img":"https://lp2.hm.com/hmgoepprod?set=source[/b5/ff/b5ff071ce65dd461ffdaafde999e1157cd42ab43.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
-            "title":"test1",
+            "title":"플레어 레깅스",
             "price":19900,
             "color":["1","2"],
             "choice":true,
@@ -14,7 +14,7 @@
         {
             "id":1,
             "img":"https://lp2.hm.com/hmgoepprod?set=source[/af/50/af50afa939c28ba24fd263fb573b4ad5f0858b14.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
-            "title":"test2",
+            "title":"슬림핏 맘 하이웨이스트 앵클 진",
             "price":29900,
             "color":["5","6"],
             "choice":true,
