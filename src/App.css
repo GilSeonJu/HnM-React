@@ -1,0 +1,165 @@
+.login-button {
+  display: flex;
+  justify-content: flex-end;
+  margin: 40px 20px 0 0;
+  cursor: pointer;
+}
+
+.login-icon {
+  margin-top: 4px;
+  margin-right: 5px;
+  color: black !important;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo-img {
+  width: 10%;
+}
+
+.category-div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.category {
+  display: inline-block;
+  list-style: none;
+  margin-top: 50px;
+  padding-right: 20px;
+}
+
+.search-div {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  top: 0;
+  right: 0;
+
+}
+
+.search-bar {
+  position: relative;
+  width: 200px;
+  margin-top: 40px;
+}
+
+.search-input {
+  border-width: 0 0 1px;
+  width: 100%;
+  padding-left: 25px;
+  padding-top: 5px;
+  font-size: large;
+}
+
+.icon {
+  position: absolute;
+  padding-top: 10px;
+  padding-left: 3px;
+  width: 17px;
+}
+
+.color1 {
+  background-color: #54575B;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.color2 {
+  background-color: #E4E2DC;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.color3 {
+  background-color: #e61897;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.color4 {
+  background-color: #f3b90e;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.color5 {
+  background-color: #1d58a5fe;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.color6 {
+  background-color: #142d05;
+  border-radius: 50%;
+  height: 15px;
+  overflow: hidden;
+  text-indent: -9999px;
+  width: 15px;
+  margin: 7px 20px 10px 5px;
+}
+.choice-select {
+  margin-top: 11px;
+}
+.color-div {
+  display: flex;
+}
+
+.img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease; /* 좀 느리게  */
+}
+.img:hover {
+  opacity: 0.8;
+  transform: scale(1.1); /* 1.1만큼 커짐 */
+}
+
+.link {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container-size {
+  max-width: 660px !important;
+}
+.detailPage {
+  margin-top: 30px !important;
+  margin: 10px;
+}
+.imgDetail {
+  display: flex;
+  justify-content: flex-end;
+}
+.d-grid {
+  margin-top: 20px;
+}
+.detailInfo >h3 {
+  margin-bottom: 15px !important;
+}
+.detailInfo >h2 {
+  margin-bottom: 20px !important;
+}
